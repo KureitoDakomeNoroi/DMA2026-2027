@@ -25,6 +25,7 @@
 <img width="614" height="336" alt="Снимок экрана 2026-11-10 223553" src="https://github.com/user-attachments/assets/a60843de-0a59-4cae-979e-a90b599ecfc3" />
 
 
+
 <img width="659" height="86" alt="image" src="https://github.com/user-attachments/assets/1491e88a-e041-4f2a-8894-2ca9a1e2fdd2" />
 
 Тема №4:
@@ -44,9 +45,15 @@
 
 Блок №4:
 
+
+
+![Uploading Снимок экрана 2026-11-10 225055.png…]()
+
+
 Блок №5:
 
 
+![Uploading Снимок экрана 2026-11-10 225229.png…]()
 
 
 
